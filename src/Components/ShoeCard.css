@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.shoe-container {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin:30px;
+  text-align:start;
+  border: 1px solid black;
+  padding: 10px;
+  background-color:white;
+}
+
+span{
+  color:red;
+}
+
+.edit{
+  margin-top:5px;
+  width:80px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 1px solid;
+}
